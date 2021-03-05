@@ -8,6 +8,8 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [The Chartmaker Directory](https://chartmaker.visualisingdata.com/) - An attempt to gather and organise a useful catalogue of references that will offer an answer to one of the most common questions in data visualisation: "Which tool do you need to make that chart?"
 - [DataBasic.io](https://www.databasic.io/en/) - A suite of easy-to-use web tools for beginners
 - [Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/) - A collection of tools that we, the people behind Datavisualization.ch, work with on a daily basis and recommend warmly
+- [Datawrapper](https://www.datawrapper.de/) - Create charts and maps
+- [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling
 - [Gephi](https://gephi.org/) - The Open Graph Viz Platform
 - [Quadrigram](https://www.quadrigram.com/) - Data visualization and presentation tool
 - [RAWGraphs](https://rawgraphs.io/) - The missing link between spreadsheets and data visualization
@@ -41,3 +43,5 @@ Old bookmarks migrated here for easier sharing and persistence!
 
 ## Maps
 
+- [Leaflet](https://leafletjs.com/) - A JavaScript library for interactive maps
+- [Mapbox](https://www.mapbox.com/) - Maps, geocoding, and navigation APIs & SDKs
