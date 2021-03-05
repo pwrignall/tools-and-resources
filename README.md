@@ -3,6 +3,15 @@ Old bookmarks migrated here for easier sharing and persistence!
 
 ## Data
 
+### Content / Inspiration
+
+- [DataRemixed](https://dataremixed.com/) - A blog dedicated to exploring data and sharing insights in an engaging way
+- [The Functional Art](http://www.thefunctionalart.com/) - An Introduction to Information Graphics and Visualization 
+- [Our World in Data](https://ourworldindata.org/) - A publication to see the large global problems and the powerful changes that reshape our world
+- [Policy Viz](https://policyviz.com/) - Learn Data Visualization & Better Presentation
+- [Questions in Dataviz](https://questionsindataviz.com/) - A blog about data visualisation and visualisations
+- [Visual Capitalist](https://www.visualcapitalist.com/) - Highlighting the bigger picture through data-driven visuals
+
 ### Tools
 
 - [The Chartmaker Directory](https://chartmaker.visualisingdata.com/) - An attempt to gather and organise a useful catalogue of references that will offer an answer to one of the most common questions in data visualisation: "Which tool do you need to make that chart?"
