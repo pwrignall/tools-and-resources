@@ -45,3 +45,12 @@ Old bookmarks migrated here for easier sharing and persistence!
 
 - [Leaflet](https://leafletjs.com/) - A JavaScript library for interactive maps
 - [Mapbox](https://www.mapbox.com/) - Maps, geocoding, and navigation APIs & SDKs
+
+## Misc Data Viz\news sites
+
+- [VisualCapitalist](https://www.visualcapitalist.com/)
+- [Data Remixed](https://dataremixed.com/)
+- [Our World in Data](https://ourworldindata.org/)
+- [Policy Viz](https://policyviz.com/)
+- [Questions in data viz](https://questionsindataviz.com/)
+- [The Functional Art](http://www.thefunctionalart.com/)
