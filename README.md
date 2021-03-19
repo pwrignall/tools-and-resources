@@ -5,6 +5,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 
 ### Content / Inspiration
 
+- [Chartable](https://blog.datawrapper.de/) - Chartable is a blog written by a bunch of people who work on Datawrapper
 - [DataRemixed](https://dataremixed.com/) - A blog dedicated to exploring data and sharing insights in an engaging way
 - [The Functional Art](http://www.thefunctionalart.com/) - An Introduction to Information Graphics and Visualization 
 - [Our World in Data](https://ourworldindata.org/) - A publication to see the large global problems and the powerful changes that reshape our world
