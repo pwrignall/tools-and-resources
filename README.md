@@ -21,6 +21,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [Datawrapper](https://www.datawrapper.de/) - Create charts and maps
 - [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling
 - [Gephi](https://gephi.org/) - The Open Graph Viz Platform
+- [Journalist's Toolbox](https://www.journaliststoolbox.org/2021/04/07/urban_legendsfact-checking/) - As newsrooms and resources shrink, the Toolbox plays an important role in providing journalists, students, academics and others reliable resources for reporting, editing and verifying complex stories
 - [Quadrigram](https://www.quadrigram.com/) - Data visualization and presentation tool
 - [RAWGraphs](https://rawgraphs.io/) - The missing link between spreadsheets and data visualization
 
