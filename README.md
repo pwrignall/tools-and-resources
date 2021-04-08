@@ -56,3 +56,4 @@ Old bookmarks migrated here for easier sharing and persistence!
 
 - [Leaflet](https://leafletjs.com/) - A JavaScript library for interactive maps
 - [Mapbox](https://www.mapbox.com/) - Maps, geocoding, and navigation APIs & SDKs
+- [OSM Queries](https://osm-queries.ldodds.com/) - A collection of queries to help you use the OpenStreetMap Overpass API
