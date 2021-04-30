@@ -16,6 +16,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 ### Tools
 
 - [The Chartmaker Directory](https://chartmaker.visualisingdata.com/) - An attempt to gather and organise a useful catalogue of references that will offer an answer to one of the most common questions in data visualisation: "Which tool do you need to make that chart?"
+- [Data Visualization Guide for Presentations, Reports, and Dashboards](https://github.com/nalgeon/dataviz) - This is a highly practical and example-based guide on visually representing data in reports and dashboards. It is based on the work of authors such as Barbara Minto, Edward Tufte, and Stephen Few.
 - [DataBasic.io](https://www.databasic.io/en/) - A suite of easy-to-use web tools for beginners
 - [Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/) - A collection of tools that we, the people behind Datavisualization.ch, work with on a daily basis and recommend warmly
 - [Datawrapper](https://www.datawrapper.de/) - Create charts and maps
