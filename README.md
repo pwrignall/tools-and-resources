@@ -23,6 +23,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling
 - [Gephi](https://gephi.org/) - The Open Graph Viz Platform
 - [Journalist's Toolbox](https://www.journaliststoolbox.org/2021/04/07/urban_legendsfact-checking/) - As newsrooms and resources shrink, the Toolbox plays an important role in providing journalists, students, academics and others reliable resources for reporting, editing and verifying complex stories
+- [polyglot](https://felixluginbuhl.com/polyglot/) - The package `polyglot` helps you learn foreign language vocabulary or any flashcards using R as an interactive learning environment.
 - [Quadrigram](https://www.quadrigram.com/) - Data visualization and presentation tool
 - [RAWGraphs](https://rawgraphs.io/) - The missing link between spreadsheets and data visualization
 
