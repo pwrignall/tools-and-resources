@@ -50,9 +50,11 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) -  Guide from CSS-Tricks
 - [Every Layout](https://every-layout.dev/) - Relearn CSS layout
 - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) - Detailed guides to all of the tools as well as information on how to debug Firefox for Android, how to extend DevTools, and how to debug the browser as a whole
+- [freeCodeCamp](https://www.freecodecamp.org/) - To help people learn to code for free
 - [Grab Front End Guide](https://github.com/grab/front-end-guide) - Study guide targeted at newcomers to front end
 - [An Introduction to D3.js](https://wattenberger.com/blog/d3) - How to learn D3.js
 - [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) - The goal of this article is to provide a historical context of how JavaScript tools have evolved to what they are today in 2017
+- [The Odin Project](https://www.theodinproject.com/) - This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education
 - [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer
 
 ## Maps
