@@ -42,7 +42,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [Visualization Universe](http://visualizationuniverse.com/charts/) - Track the interest in top visualization types, tools, and books
 - [Xenographics](https://xeno.graphics/) - Weird but (sometimes) useful charts
 
-## Development
+## Web development
 
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/) - Guide from CSS-Tricks
@@ -53,6 +53,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [freeCodeCamp](https://www.freecodecamp.org/) - To help people learn to code for free
 - [Grab Front End Guide](https://github.com/grab/front-end-guide) - Study guide targeted at newcomers to front end
 - [An Introduction to D3.js](https://wattenberger.com/blog/d3) - How to learn D3.js
+- [Learn JS data](http://learnjsdata.com/) - Data cleaning, manipulation, and wrangling in JavaScript
 - [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) - The goal of this article is to provide a historical context of how JavaScript tools have evolved to what they are today in 2017
 - [The Odin Project](https://www.theodinproject.com/) - This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education
 - [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer
