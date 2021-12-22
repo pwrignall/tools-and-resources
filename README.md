@@ -45,6 +45,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 ## Web development
 
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
+- [Better Web Type](https://betterwebtype.com/) - A web typography course for web designers and web developers by Matej Latin
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/) - Guide from CSS-Tricks
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Guide from CSS-Tricks
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) -  Guide from CSS-Tricks
