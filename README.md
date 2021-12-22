@@ -51,6 +51,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) -  Guide from CSS-Tricks
 - [Every Layout](https://every-layout.dev/) - Relearn CSS layout
 - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) - Detailed guides to all of the tools as well as information on how to debug Firefox for Android, how to extend DevTools, and how to debug the browser as a whole
+- [Fonts Knowledge](https://fonts.google.com/knowledge) - A library of original guides to the world of typography, which the Google Fonts team is producing in collaboration with typographic experts from around the world
 - [freeCodeCamp](https://www.freecodecamp.org/) - To help people learn to code for free
 - [Grab Front End Guide](https://github.com/grab/front-end-guide) - Study guide targeted at newcomers to front end
 - [An Introduction to D3.js](https://wattenberger.com/blog/d3) - How to learn D3.js
