@@ -5,6 +5,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 
 ### Content / Inspiration
 
+- [Cartoblography](https://cartoblography.com/) - Kenneth Field's blog to share musings on matters of mapping, his own work, and focus a spotlight on maps that interest him
 - [Chartable](https://blog.datawrapper.de/) - Chartable is a blog written by a bunch of people who work on Datawrapper
 - [DataRemixed](https://dataremixed.com/) - A blog dedicated to exploring data and sharing insights in an engaging way
 - [The Functional Art](http://www.thefunctionalart.com/) - An Introduction to Information Graphics and Visualization 
@@ -62,6 +63,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 
 ## Maps
 
+- [Cartography Playground](https://cartography-playground.gitlab.io/) - A simple and interactive website for explaining cartographic algorithms, problems and other matters
 - [Leaflet](https://leafletjs.com/) - A JavaScript library for interactive maps
 - [Mapbox](https://www.mapbox.com/) - Maps, geocoding, and navigation APIs & SDKs
 - [OSM Queries](https://osm-queries.ldodds.com/) - A collection of queries to help you use the OpenStreetMap Overpass API
