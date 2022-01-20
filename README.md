@@ -62,9 +62,10 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [The Odin Project](https://www.theodinproject.com/) - This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education
 - [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer
 
-## Maps
+## Geo
 
 - [Cartography Playground](https://cartography-playground.gitlab.io/) - A simple and interactive website for explaining cartographic algorithms, problems and other matters
+- [Geocomputation with R](https://geocompr.robinlovelace.net/index.html) - A book on geographic data analysis, visualization and modeling
 - [Leaflet](https://leafletjs.com/) - A JavaScript library for interactive maps
 - [Mapbox](https://www.mapbox.com/) - Maps, geocoding, and navigation APIs & SDKs
 - [OSM Queries](https://osm-queries.ldodds.com/) - A collection of queries to help you use the OpenStreetMap Overpass API
