@@ -11,6 +11,8 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [Datawrapper](https://www.datawrapper.de/) - Create charts and maps
 - [Flourish](https://flourish.studio/) - Beautiful and easy data visualization and storytelling
 - [Gephi](https://gephi.org/) - The Open Graph Viz Platform
+- [Markwhen](https://markwhen.com/) - Markwhen is a text-to-timeline tool. You write markdown-ish text and it gets converted into a nice looking cascading timeline
+- [Observable](https://observablehq.com/explore) - Explore, analyze, and explain data. As a team
 - [Quadrigram](https://www.quadrigram.com/) - Data visualization and presentation tool
 - [RAWGraphs](https://rawgraphs.io/) - The missing link between spreadsheets and data visualization
 
@@ -43,5 +45,6 @@ Old bookmarks migrated here for easier sharing and persistence!
 
 ## Maps
 
+- [Felt](https://felt.com/) - Felt is the world's first collaborative mapping tool built for anyone to make a beautiful map in minutes
 - [Leaflet](https://leafletjs.com/) - A JavaScript library for interactive maps
 - [Mapbox](https://www.mapbox.com/) - Maps, geocoding, and navigation APIs & SDKs
