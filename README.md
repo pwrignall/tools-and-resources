@@ -47,6 +47,24 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [Visualization Universe](http://visualizationuniverse.com/charts/) - Track the interest in top visualization types, tools, and books
 - [Xenographics](https://xeno.graphics/) - Weird but (sometimes) useful charts
 
+
+## Design
+
+### Content / Inspiration
+
+- [Graphis](https://www.graphis.com/) - Graphis is committed to presenting and promoting the work of exceptional talent in Design, Advertising, Photography and Art/Illustration
+
+
+## Geo
+
+- [Felt](https://felt.com/) - Felt is the world's first collaborative mapping tool built for anyone to make a beautiful map in minutes
+- [Cartography Playground](https://cartography-playground.gitlab.io/) - A simple and interactive website for explaining cartographic algorithms, problems and other matters
+- [Geocomputation with R](https://geocompr.robinlovelace.net/index.html) - A book on geographic data analysis, visualization and modeling
+- [Leaflet](https://leafletjs.com/) - A JavaScript library for interactive maps
+- [Mapbox](https://www.mapbox.com/) - Maps, geocoding, and navigation APIs & SDKs
+- [OSM Queries](https://osm-queries.ldodds.com/) - A collection of queries to help you use the OpenStreetMap Overpass API
+
+
 ## Web development
 
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
@@ -64,12 +82,3 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) - The goal of this article is to provide a historical context of how JavaScript tools have evolved to what they are today in 2017
 - [The Odin Project](https://www.theodinproject.com/) - This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education
 - [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer
-
-## Geo
-
-- [Felt](https://felt.com/) - Felt is the world's first collaborative mapping tool built for anyone to make a beautiful map in minutes
-- [Cartography Playground](https://cartography-playground.gitlab.io/) - A simple and interactive website for explaining cartographic algorithms, problems and other matters
-- [Geocomputation with R](https://geocompr.robinlovelace.net/index.html) - A book on geographic data analysis, visualization and modeling
-- [Leaflet](https://leafletjs.com/) - A JavaScript library for interactive maps
-- [Mapbox](https://www.mapbox.com/) - Maps, geocoding, and navigation APIs & SDKs
-- [OSM Queries](https://osm-queries.ldodds.com/) - A collection of queries to help you use the OpenStreetMap Overpass API
