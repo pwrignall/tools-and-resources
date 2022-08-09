@@ -5,6 +5,7 @@ Old bookmarks migrated here for easier sharing and persistence!
 
 ### Content / Inspiration
 
+- [Building Modern Data Teams](https://amplifypartners.com/moderndatateamshub/) - Collection of resources and articles on building data teams
 - [Cartoblography](https://cartoblography.com/) - Kenneth Field's blog to share musings on matters of mapping, his own work, and focus a spotlight on maps that interest him
 - [Chartable](https://blog.datawrapper.de/) - Chartable is a blog written by a bunch of people who work on Datawrapper
 - [DataRemixed](https://dataremixed.com/) - A blog dedicated to exploring data and sharing insights in an engaging way
