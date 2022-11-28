@@ -8,7 +8,12 @@ Old bookmarks migrated here for easier sharing and persistence!
 - [Building Modern Data Teams](https://amplifypartners.com/moderndatateamshub/) - Collection of resources and articles on building data teams
 - [Cartoblography](https://cartoblography.com/) - Kenneth Field's blog to share musings on matters of mapping, his own work, and focus a spotlight on maps that interest him
 - [Chartable](https://blog.datawrapper.de/) - Chartable is a blog written by a bunch of people who work on Datawrapper
+- [Data Viz Project](https://datavizproject.com/) - Collection of data visualizations to get inspired and find the right type
 - [DataRemixed](https://dataremixed.com/) - A blog dedicated to exploring data and sharing insights in an engaging way
+- [Dataviz Inspiration](https://www.dataviz-inspiration.com/) - Dataviz-inspiration.com aims at being the biggest list of chart examples available on the web
+- [Datawrapper River](https://app.datawrapper.de/river/) - A place to exchange relevant data, charts and maps
+- [Datylon](https://insights.datylon.com/stories) - Discover a wide variety of charts for reports, data stories, presentation slides and get a taste of what Datylon can do for you
+- [Flourish examples](https://flourish.studio/examples/) - Some examples of what can be created with Flourish
 - [The Functional Art](http://www.thefunctionalart.com/) - An Introduction to Information Graphics and Visualization 
 - [Our World in Data](https://ourworldindata.org/) - A publication to see the large global problems and the powerful changes that reshape our world
 - [Policy Viz](https://policyviz.com/) - Learn Data Visualization & Better Presentation
@@ -37,11 +42,11 @@ Old bookmarks migrated here for easier sharing and persistence!
 
 - [Chart.Guide](https://chart.guide/charts/chart-choosing/) - Chart choosing
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/) - A library of different information visualisation types
-- [Data Viz Project](https://datavizproject.com/) - Collection of data visualizations to get inspired and find the right type
 - [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary) - To assist designers and journalists to select the optimal symbology for data visualisations
 - [FlowingData](https://flowingdata.com/chart-types/) - Chart Types
 - [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz is a classification of chart types based on input data format. It comes in the form of a decision tree leading to a set of potentially appropriate visualizations to represent the dataset
 - [Juice Labs](http://labs.juiceanalytics.com/chartchooser/index.html) - Chart Chooser
+- [Python Data Visualization Cookbook](https://dataviz.dylancastillo.co/) - It'll show you how to create basic line charts, bar charts, stacked area charts, histograms, and other common types of graphs using pandas, matplotlib, seaborn, and plotly
 - [The Python Graph Gallery](https://www.python-graph-gallery.com/) - A collection of hundreds of charts made with `Python`
 - [The R Graph Gallery](https://www.r-graph-gallery.com/) - Help and inspiration for R charts
 - [Visualization Universe](http://visualizationuniverse.com/charts/) - Track the interest in top visualization types, tools, and books
